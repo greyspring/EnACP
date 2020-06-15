@@ -29,7 +29,7 @@ Or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/REA
 
   3).Prediction:  
   
-     python  predict.py EnACP/anti/Input_data/Input_feature/test
+     python  EnACP_Predict.py EnACP/anti/Input_data/Input_feature/test
 
 
 3. Reference and Feedback
