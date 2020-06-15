@@ -28,6 +28,7 @@ or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/REA
      Features are stored in directory EnACP/anti/Input_data/Input_data_feature/.
 
   3).Prediction:  
+  
      python  predict.py EnACP/anti/Input_data/Input_feature/test
 
 
