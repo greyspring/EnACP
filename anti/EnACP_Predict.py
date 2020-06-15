@@ -31,7 +31,7 @@ def main(argv):
 
 
 
-#合并编号对应阳阴训练集或测试集并保存
+#combine samples
 def datadic(feature_file):
     #11 features
 #    method = ["kmer","feature-AC.csv","ACC.csv","feature-CC.csv","DP.csv","DR.csv","PC-PseAAC.csv","PC-PseAAC-General.csv","PDT.csv","SC-PseAAC.csv","SC-PseAAC-General.csv"]
@@ -70,11 +70,11 @@ def datadic(feature_file):
 
 
 
-#多重子模型分类
 
 
 
-#子模型分类
+
+#modle classify
 def trainmodel_GBM(datadic):
     train_feature = {}
     test_feature  = {}
@@ -89,7 +89,7 @@ def trainmodel_GBM(datadic):
     return new_Feature
 	# return model
 
-#训练11个模型
+#train 11 models
 def extracts(file1,drec):
     fname,filename = os.path.split(file1)
 
