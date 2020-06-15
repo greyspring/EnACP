@@ -13,19 +13,23 @@ If you clone this git repository, you dont need install BioSeq-Analysis package 
 or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/README.
 
 
+
 2. Usage 
 
 ===========
 
   1).Test fasta sequences: 
+  
      Create a new directory for the test fasta format file in the directory /anti/Input_data/Input_data_fasta/test/
 
   2).Feature_repretation: 
+  
      python Feature_repretation.py  EnACP/anti/Input_data/Input_fasta/test
      Features are stored in directory EnACP/anti/Input_data/Input_data_feature/.
 
   3).Prediction:  
      python  predict.py EnACP/anti/Input_data/Input_feature/test
+
 
 3. Reference and Feedback
 
