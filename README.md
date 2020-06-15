@@ -10,7 +10,7 @@ The BioSeq-Analysis package need to be pre-installed. The full package and docum
 Before using BioSeq-Analysis, the Python software should be first installed and configured. Python 2.7 64-bit is recommended, which can be downloaded from https://www.python.org. 
 
 If you clone this git repository, you dont need install BioSeq-Analysis package but need copy two files nrdb90.phr and nrdb90.psq in BioSeq-Analysis package into directory /anti/BioSeq-Analysis/psiblast/nrdb90/.
-or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/README.
+Or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/README.
 
 
 
