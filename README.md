@@ -3,6 +3,7 @@
 EnACP is a method to identify anticancer peptides using diversified feature representations and ensemble learning.
 
 1. pre-Installation
+
 ===========
 
 The BioSeq-Analysis package need to be pre-installed. The full package and documents of BioSeq-Analysis are available at http://bioinformatics.hitsz.edu.cn/BioSeq-Analysis/download. 
@@ -13,6 +14,7 @@ or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/REA
 
 
 2. Usage 
+
 ===========
 
   1).Test fasta sequences: 
@@ -26,6 +28,7 @@ or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/REA
      python  predict.py EnACP/anti/Input_data/Input_feature/test
 
 3. Reference and Feedback
+
 ===========
 
   Ruiquan Ge, Guanwen Feng, Xiaoyang Jing, Renfeng Zhang, Pu Wang and Qing Wu. EnACP: An Ensemble Learning Model for Identification of     Anticancer Peptides. Submitted,2020.
