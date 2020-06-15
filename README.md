@@ -15,7 +15,7 @@ or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/REA
 ===========
 
   1)Test fasta sequences: 
-	Create a new directory for the test fasta format file in the directory /anti/Input_data/Input_data_fasta/test/
+  Create a new directory for the test fasta format file in the directory /anti/Input_data/Input_data_fasta/test/
 
   2).Feature_repretation: 
 	python Feature_repretation.py  EnACP/anti/Input_data/Input_fasta/test
