@@ -24,12 +24,12 @@ Or install BioSeq-Analysis package referring the file: /anti/BioSeq-Analysis/REA
 
   2).Feature_repretation: 
   
-     python Feature_repretation.py  EnACP/anti/Input_data/Input_fasta/test
+     python Feature_repretation.py  EnACP/anti/Input_data/Input_data_fasta/test
      Features are stored in directory EnACP/anti/Input_data/Input_data_feature/.
 
   3).Prediction:  
   
-     python  EnACP_Predict.py EnACP/anti/Input_data/Input_feature/test
+     python  EnACP_Predict.py EnACP/anti/Input_data/Input_data_feature/test
 
 
 3. Reference and Feedback
