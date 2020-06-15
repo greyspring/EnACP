@@ -2,7 +2,7 @@
  
 EnACP is a method to identify anticancer peptides using diversified feature representations and ensemble learning.
 
-1. pre-Installation
+1. Pre-Installation
 
 ===========
 
