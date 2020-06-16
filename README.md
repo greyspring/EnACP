@@ -8,7 +8,8 @@ EnACP is a method to identify anticancer peptides using diversified feature repr
 
 If you clone this git repository, you dont need install BioSeq-Analysis package but need copy two files nrdb90.phr and nrdb90.psq in BioSeq-Analysis package into the folder /BioSeq-Analysis/psiblast/nrdb90/.
 
-The BioSeq-Analysis package need to be pre-installed. The full package and documents of BioSeq-Analysis are available at http://bioinformatics.hitsz.edu.cn/BioSeq-Analysis/download. 
+The sklearn, imblearn and lightgbm packages need to be pre-installed. 
+The BioSeq-Analysis package and documents of BioSeq-Analysis are available at http://bioinformatics.hitsz.edu.cn/BioSeq-Analysis/download. 
 Before using BioSeq-Analysis, the Python software should be first installed and configured. Python 2.7 64-bit is recommended, which can be downloaded from https://www.python.org. 
 
 2. Usage 
@@ -35,4 +36,4 @@ Before using BioSeq-Analysis, the Python software should be first installed and 
 
   Ruiquan Ge, Guanwen Feng, Xiaoyang Jing, Renfeng Zhang, Pu Wang and Qing Wu. EnACP: An Ensemble Learning Model for Identification of     Anticancer Peptides. Submitted,2020.
  
-  Please contact the development team at: gespring@hdu.edu.cn or fgw.98@qq.com to submit questions or feedback for us.
+  Please contact the development team at: gespring@hdu.edu.cn or fgw_98@163.com to submit questions or feedback for us.
