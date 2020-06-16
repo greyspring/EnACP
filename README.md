@@ -15,19 +15,8 @@ Before using BioSeq-Analysis, the Python software should be first installed and 
 2. Usage 
 
 ===========
-
-  1).Test fasta sequences: 
   
-     Create a new directory “test" for the test fasta format file in the directory /Input_data/Input_data_fasta/test/
-
-  2).Feature_repretation: 
-  
-     python Feature_repretation.py  EnACP/Input_data/Input_data_fasta/test
-     Features are stored in directory EnACP/Input_data/Input_data_feature/.
-
-  3).Prediction:  
-  
-     python  EnACP_Predict.py EnACP/Input_data/Input_data_feature/test
+     python  EnACP_Predict.py EnACP/Input_data/Input_data_fasta/test/test.fasta
 
 
 3. Reference and Feedback
