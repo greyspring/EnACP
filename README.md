@@ -6,11 +6,10 @@ EnACP is a method to identify anticancer peptides using diversified feature repr
 
 ===========
 
+If you clone this git repository, you dont need install BioSeq-Analysis package but need copy two files nrdb90.phr and nrdb90.psq in BioSeq-Analysis package into the folder /BioSeq-Analysis/psiblast/nrdb90/.
+
 The BioSeq-Analysis package need to be pre-installed. The full package and documents of BioSeq-Analysis are available at http://bioinformatics.hitsz.edu.cn/BioSeq-Analysis/download. 
 Before using BioSeq-Analysis, the Python software should be first installed and configured. Python 2.7 64-bit is recommended, which can be downloaded from https://www.python.org. 
-
-If you clone this git repository, you dont need install BioSeq-Analysis package but need copy two files nrdb90.phr and nrdb90.psq in BioSeq-Analysis package into directory /anti/BioSeq-Analysis/psiblast/nrdb90/.
-
 
 2. Usage 
 
@@ -18,16 +17,16 @@ If you clone this git repository, you dont need install BioSeq-Analysis package 
 
   1).Test fasta sequences: 
   
-     Create a new directory “test" for the test fasta format file in the directory /anti/Input_data/Input_data_fasta/test/
+     Create a new directory “test" for the test fasta format file in the directory /Input_data/Input_data_fasta/test/
 
   2).Feature_repretation: 
   
-     python Feature_repretation.py  EnACP/anti/Input_data/Input_data_fasta/test
-     Features are stored in directory EnACP/anti/Input_data/Input_data_feature/.
+     python Feature_repretation.py  EnACP/Input_data/Input_data_fasta/test
+     Features are stored in directory EnACP/Input_data/Input_data_feature/.
 
   3).Prediction:  
   
-     python  EnACP_Predict.py EnACP/anti/Input_data/Input_data_feature/test
+     python  EnACP_Predict.py EnACP/Input_data/Input_data_feature/test
 
 
 3. Reference and Feedback
