@@ -25,6 +25,6 @@ Before using BioSeq-Analysis, the Python software should be first installed and 
 # 3. Reference and Feedback
 
 
-  Ruiquan Ge, Guanwen Feng, Xiaoyang Jing, Renfeng Zhang, Pu Wang and Qing Wu. EnACP: An Ensemble Learning Model for Identification of     Anticancer Peptides. Submitted,2020.
+  Ruiquan Ge, Guanwen Feng, Xiaoyang Jing, Renfeng Zhang, Pu Wang and Qing Wu. (2020) EnACP: An Ensemble Learning Model for Identification of Anticancer Peptides. Front. Genet. 11:760. doi: 10.3389/fgene.2020.00760.
  
   Please contact the development team at: gespring@hdu.edu.cn or fgw_98@163.com to submit questions or feedback for us.
